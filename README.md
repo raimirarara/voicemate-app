@@ -1,5 +1,6 @@
 ## 楽天のサマーインターンで作成したアプリ
-voicemate
+
+voicemateという音声通話アプリです。
 
 # Getting Started with Create React App
 
