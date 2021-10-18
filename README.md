@@ -18,7 +18,17 @@
 #### 検索機能(タグ検索,性別検索,人数検索,etc)
 #### タグ追加機能
 
+## 開発環境
+
+### フロントエンド
+typescript, React, Redux, material ui , tailwind
+
+### バックエンド
+Go, 
+
+
 ## 開発環境setting
+
 ## prettier eslint 導入
 
 https://qiita.com/yuma-ito-bd/items/cca7490fd7e300bbf169#%E5%8F%82%E8%80%83%E3%82%B5%E3%82%A4%E3%83%88
