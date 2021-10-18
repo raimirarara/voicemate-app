@@ -9,9 +9,14 @@
 
 ### Demo
 
-![image](https://user-images.githubusercontent.com/68259235/137764493-1a473d79-d750-4302-8fb4-049c9aa06394.png)
 
 
+
+### 主要機能
+## ユーザー認証機能
+## 会話機能
+## 検索機能(タグ検索,性別検索,人数検索,etc)
+## タグ追加機能
 
 ## 開発環境setting
 ## prettier eslint 導入
