@@ -20,11 +20,14 @@
 
 ## 開発環境
 
+![image](https://user-images.githubusercontent.com/68259235/137767109-cbaeffa0-3f0d-4986-bfb5-fc5366871abc.png)
+
+
 ### フロントエンド
 typescript, React, Redux, material ui , tailwind
 
 ### バックエンド
-Go, 
+Go,PostgreSQL
 
 
 ## 開発環境setting
